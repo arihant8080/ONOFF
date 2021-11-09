@@ -1,0 +1,19 @@
+body {
+ text-align: center;
+ margin-top: 20%;
+background-color: rgb(177, 233, 233);
+} 
+
+button{
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  border-style:30px;
+   background-color: bisque;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+h1{
+  color: red;
+}
